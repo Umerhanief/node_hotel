@@ -1,4 +1,4 @@
 #igrnore node module directoory
 node/modules
-
+.env
 #other entries

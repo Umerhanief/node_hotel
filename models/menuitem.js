@@ -17,7 +17,6 @@ const menuItemschema = new mongoose.Schema({
     drink:{
         type:Boolean,
         default:false
-
     },
     ingredients:{
         type:[String],
