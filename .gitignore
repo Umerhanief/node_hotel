@@ -1,0 +1,4 @@
+#igrnore node module directoory
+node/modules
+
+#other entries
